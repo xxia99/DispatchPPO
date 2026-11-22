@@ -92,12 +92,12 @@ scripts/        training launcher with the per-setting configuration of the pape
 ## 6. Citation
 
 ```bibtex
-@inproceedings{
-xia2026learning,
-title={Learning Collision-Free Dispatch Policies for Route-Wise Decision-Dependent Anomaly Detection},
-author={Xin Xia and Chen Zhang and Kaibo Liu},
-booktitle={The Fortieth Annual Conference on Neural Information Processing Systems},
-year={2026},
-url={https://openreview.net/forum?id=s01jPERPlb}
+@inproceedings{xia2026learning,
+  title     = {Learning Collision-Free Dispatch Policies for
+               Route-Wise Decision-Dependent Anomaly Detection},
+  author    = {Xin Xia and Chen Zhang and Kaibo Liu},
+  booktitle = {The Fortieth Annual Conference on Neural Information Processing Systems},
+  year      = {2026},
+  url       = {https://openreview.net/forum?id=s01jPERPlb}
 }
 ```
