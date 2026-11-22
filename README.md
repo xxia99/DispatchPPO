@@ -96,9 +96,7 @@ scripts/        training launcher with the per-setting configuration of the pape
   title     = {Learning Collision-Free Dispatch Policies for Route-Wise Decision-Dependent Anomaly Detection},
   author    = {Xia, Xin and Zhang, Chen and Liu, Kaibo},
   booktitle = {Advances in Neural Information Processing Systems},
-  volume    = {39},
   publisher = {Curran Associates, Inc.},
-  year      = {2026},
-  url       = {https://openreview.net/forum?id=s01jPERPlb}
+  year      = {2026}
 }
 ```
